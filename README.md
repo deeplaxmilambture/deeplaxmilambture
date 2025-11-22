@@ -137,7 +137,7 @@ Financial & market analytics using:
 
 ---
 
-# 🎯 Current Focus (SEO-Enhanced)
+# 🎯 Current Focus
 - Advanced SQL for BI Engineering  
 - Azure-based ETL pipelines  
 - Enterprise Power BI dashboards  
