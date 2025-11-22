@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm <strong>Deeplaxmi Lambture</strong></h1>
-<h2 align="center">Business Intelligence Developer • Data Analyst • SQL & Python Engineer</h2>
+<h2 align="center">Business Intelligence Developer • Data Analyst • SQL & Python • Finance Analyst • Healthcare Analyst • Reporting Analyst</h2>
 
 <p align="center">
   <a href="mailto:lambturedeeplaxmip@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue"></a>
@@ -17,6 +17,7 @@ I’m a **Business Intelligence Developer** and **Data Analyst** specializing in
 - **Advanced Data Analytics using Python**
 - **Azure Data Engineering (ADF, Databricks, Blob)**
 - **Real Estate & Fintech Analytics**
+- **Healthcare Analytics**
 - **Enterprise reporting, KPI automation, and BI architecture**
 
 I convert raw datasets into **BI-ready analytical models**, build **high-impact dashboards**, automate pipelines, and design **data products** that solve real business problems.
