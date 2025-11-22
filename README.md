@@ -24,9 +24,6 @@ I convert raw datasets into **BI-ready analytical models**, build **high-impact 
 
 ---
 
-# 🔍 HIGH-POWER SEO Keywords  
-*(Optimized for Google + Recruiter Search)*  
-
 ### **Business Intelligence Developer Skills**
 Power BI • Azure SQL • SQL Server • ADF • Databricks • Data Modeling • ETL Pipelines  
 DAX • M-Query • RLS • Data Warehousing • BI Dashboards • KPI Reporting  
@@ -46,7 +43,7 @@ Fintech Analytics • Financial KPIs • Operational Insights • SFR Housing Da
 
 ---
 
-# 🛠️ Technical Skill Stack (SEO-Optimized)
+# 🛠️ Technical Skill Stack
 
 ### **Programming Languages**
 `SQL` • `Python` • `JavaScript`
