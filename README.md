@@ -160,8 +160,8 @@ I combine strong **BI Engineering**, **Data Analytics**, and **Python automation
 ---
 
 # 📫 Connect With Me
-📧 **Email:** deeplaxmi206@gmail.com  
-💼 **LinkedIn:** *Available on request*  
+📧 **Email:** lambturedeeplaxmip@gmail.com 
+💼 **LinkedIn:** [linkedin.com/in/deeplaxmii](https://www.linkedin.com/in/deeplaxmii/)
 🌐 **Portfolio:** Coming Soon  
 
 <h3 align="center">✨ Thanks for visiting — feel free to explore my repositories & connect!</h3>
