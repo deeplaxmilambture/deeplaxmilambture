@@ -3,7 +3,8 @@
 <h2 align="center">Business Intelligence Developer • Data Analyst • SQL & Python Engineer</h2>
 
 <p align="center">
-  <a href="mailto:deeplaxmi206@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue"></a>
+  <a href="mailto:lambturedeeplaxmip@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue"></a>
+  <a href="https://www.linkedin.com/in/deeplaxmii"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <a href="https://github.com/deeplaxmilambture"><img src="https://img.shields.io/github/followers/deeplaxmilambture?label=Follow&style=social"></a>
 </p>
 
